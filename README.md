@@ -1,0 +1,1 @@
+# Teradata2SparkSQL
